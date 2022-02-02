@@ -1,0 +1,15 @@
+C:\Users\madso\OneDrive\Área de Trabalho\Exercicio_DIO_usando_POO\Exercicio_DIO_usando_POO\bin\Debug\net6.0\Exercicio_DIO_usando_POO.exe
+C:\Users\madso\OneDrive\Área de Trabalho\Exercicio_DIO_usando_POO\Exercicio_DIO_usando_POO\bin\Debug\net6.0\Exercicio_DIO_usando_POO.deps.json
+C:\Users\madso\OneDrive\Área de Trabalho\Exercicio_DIO_usando_POO\Exercicio_DIO_usando_POO\bin\Debug\net6.0\Exercicio_DIO_usando_POO.runtimeconfig.json
+C:\Users\madso\OneDrive\Área de Trabalho\Exercicio_DIO_usando_POO\Exercicio_DIO_usando_POO\bin\Debug\net6.0\Exercicio_DIO_usando_POO.dll
+C:\Users\madso\OneDrive\Área de Trabalho\Exercicio_DIO_usando_POO\Exercicio_DIO_usando_POO\bin\Debug\net6.0\ref\Exercicio_DIO_usando_POO.dll
+C:\Users\madso\OneDrive\Área de Trabalho\Exercicio_DIO_usando_POO\Exercicio_DIO_usando_POO\bin\Debug\net6.0\Exercicio_DIO_usando_POO.pdb
+C:\Users\madso\OneDrive\Área de Trabalho\Exercicio_DIO_usando_POO\Exercicio_DIO_usando_POO\obj\Debug\net6.0\Exercicio_DIO_usando_POO.csproj.AssemblyReference.cache
+C:\Users\madso\OneDrive\Área de Trabalho\Exercicio_DIO_usando_POO\Exercicio_DIO_usando_POO\obj\Debug\net6.0\Exercicio_DIO_usando_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madso\OneDrive\Área de Trabalho\Exercicio_DIO_usando_POO\Exercicio_DIO_usando_POO\obj\Debug\net6.0\Exercicio_DIO_usando_POO.AssemblyInfoInputs.cache
+C:\Users\madso\OneDrive\Área de Trabalho\Exercicio_DIO_usando_POO\Exercicio_DIO_usando_POO\obj\Debug\net6.0\Exercicio_DIO_usando_POO.AssemblyInfo.cs
+C:\Users\madso\OneDrive\Área de Trabalho\Exercicio_DIO_usando_POO\Exercicio_DIO_usando_POO\obj\Debug\net6.0\Exercicio_DIO_usando_POO.csproj.CoreCompileInputs.cache
+C:\Users\madso\OneDrive\Área de Trabalho\Exercicio_DIO_usando_POO\Exercicio_DIO_usando_POO\obj\Debug\net6.0\Exercicio_DIO_usando_POO.dll
+C:\Users\madso\OneDrive\Área de Trabalho\Exercicio_DIO_usando_POO\Exercicio_DIO_usando_POO\obj\Debug\net6.0\ref\Exercicio_DIO_usando_POO.dll
+C:\Users\madso\OneDrive\Área de Trabalho\Exercicio_DIO_usando_POO\Exercicio_DIO_usando_POO\obj\Debug\net6.0\Exercicio_DIO_usando_POO.pdb
+C:\Users\madso\OneDrive\Área de Trabalho\Exercicio_DIO_usando_POO\Exercicio_DIO_usando_POO\obj\Debug\net6.0\Exercicio_DIO_usando_POO.genruntimeconfig.cache
